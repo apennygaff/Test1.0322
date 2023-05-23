@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 main(){ 
   int a;
@@ -22,3 +23,4 @@ main(){
     break;
 } 
 }
+*/
