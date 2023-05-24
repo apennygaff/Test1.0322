@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "test13.c": [
+      {
+        "id": "8e6503d0-f194-48c4-be84-632bcabf2fa7",
+        "line": 10,
+        "version": 25,
+        "index": 162
+      }
+    ]
+  }
 }
